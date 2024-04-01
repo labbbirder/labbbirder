@@ -1,16 +1,32 @@
 ### Hi there 👋
 
-<!--
-**labbbirder/labbbirder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im labbbirder. 94生人，爱好广泛，IT为主
 
-Here are some ideas to get you started:
+熟练使用大多数主流语言，了解大多数流行框架，系统性的熟悉计算机原理。学习效率高，研究内容包括游戏开发、图形学、逆向、机器学习、数学、经济学等。有在Specific层面认识某项技术的意识，能实现指令集级别的二进制制品优化。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HybridCLR PR贡献者、团结引擎BugFix贡献者
+
+### 节律
+
+我现阶段按照以下优先级安排自己的时间：
+* 本职工作
+* 家庭陪伴
+* 跟朋友密谋点小东西
+* 开源和社区
+
+### 生涯成就
+
+市级中小学数学竞赛第一名。
+
+2006初中开始学习编程，主要成就：
+* 编写脚本、外挂、木马、远程控制程序等
+* 帮助多名大学网友做毕设。
+
+2010高中主要成就：
+* 自制游戏引擎，由C++编写，主要由DirectX9、Lua SDK、WinSocket等组成
+* 为某国企开发SDK dll赚外快
+* 开发并在学校出售微机室脱控软件，并在线管理软件序列号
+
+2013年大学主要成就：
+* 使用Unity 5.1开发多人在线对战的MOBA坦克游戏，安卓市场评分4.6，并有玩家自发组建游戏交流QQ群。
+* 开发了远程真机调试IDE
