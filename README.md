@@ -1,4 +1,4 @@
-## Recently Activities
+## Recent Activities
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#21](https://github.com/bigbaldy1128/DotNetDetour/issues/21#issuecomment-2060311252) in [bigbaldy1128/DotNetDetour](https://github.com/bigbaldy1128/DotNetDetour)
