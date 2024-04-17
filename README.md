@@ -1,3 +1,5 @@
+<!--START_SECTION:activity-->
+
 ### Hi there 👋
 
 Im labbbirder. 94生人，测控专业，爱好广泛。
