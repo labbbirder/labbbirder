@@ -8,12 +8,53 @@
 5. 🗣 Commented on [#21](https://github.com/bigbaldy1128/DotNetDetour/issues/21#issuecomment-2059344745) in [bigbaldy1128/DotNetDetour](https://github.com/bigbaldy1128/DotNetDetour)
 <!--END_SECTION:activity-->
 
-## Hi there 👋
-
+## Labbbirder
+<!--
 Im labbbirder. 94生人，测控专业，爱好广泛。
 
-熟练使用大多数主流语言，了解大多数流行框架，系统性的熟悉计算机原理。研究内容包括游戏开发、图形学、逆向、机器学习、数学、经济学等。全栈开发，能实现指令集级别的二进制制品优化，能魔改编译器，能魔改引擎，能自研和优化统计学算法。
+熟练使用大多数主流语言，了解大多数流行框架，系统性的熟悉计算机原理。
+-->
+研究内容包括游戏开发、图形学、逆向、机器学习、数学、经济学等。全栈开发，能实现指令集级别的二进制制品优化，能魔改编译器，能魔改引擎，能自研和优化统计学算法。
 
+## 近期工作内容
+
+* 搭建框架：大地图帧同步项目
+  * UI、资源更新、脚本更新等
+  * 确定性模拟
+    * 确定性数学
+    * 确定性物理
+    * 确定性寻路
+  * 确定性数据和资源
+    * 角色动画及确定性导出
+    * 行为树及确定性导出
+    * 游戏Database导出
+  * 同步机制
+    * 预测、回滚机制
+    * 全球节点匹配机制
+  * 对象同步和响应式MVVM
+  * 各类ECS方案对比和技术选型
+  * 学习和借鉴ET服务端设计
+  * 团队协作流的设计
+  * UI压测、实体压测
+  * CI的设计
+ 
+* 学习：
+  * Mono源码和文档阅读整理
+  * 各类ECS实现的内存布局分析整理
+  * ECMA CLI阅读整理
+  * 实现自定义渲染管线
+ 
+* 研究尝试
+  * 尝试实现HybridCLR的AOT更新
+  * 尝试实现HybridCLR在Desktop等个别平台下的热更模块PInvoke
+  * 热重载的尝试
+ 
+* 社区维护
+  * UnityInjection继续实现
+  * DecimalNavigation更新
+  * CSReactive更新
+  * 静态全局对象SourceGeneration
+<!--
 HybridCLR PR贡献者、团结引擎BugFix贡献者
 
 ### 节律
@@ -53,3 +94,4 @@ HybridCLR PR贡献者、团结引擎BugFix贡献者
 工作后：
 * 开发游戏若干
 * 以讲师身份受邀大学校园，分享游戏开发经验
+-->
