@@ -1,11 +1,11 @@
 ## Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/labbbirder/DirectRetrieveAttribute/issues/3#issuecomment-2154180000) in [labbbirder/DirectRetrieveAttribute](https://github.com/labbbirder/DirectRetrieveAttribute)
-2. 💪 Opened PR [#152](https://github.com/notgiven688/jitterphysics2/pull/152) in [notgiven688/jitterphysics2](https://github.com/notgiven688/jitterphysics2)
-3. 🗣 Commented on [#7](https://github.com/labbbirder/UnityInjection/issues/7#issuecomment-2141101143) in [labbbirder/UnityInjection](https://github.com/labbbirder/UnityInjection)
-4. 🔒 Closed issue [#141](https://github.com/notgiven688/jitterphysics2/issues/141) in [notgiven688/jitterphysics2](https://github.com/notgiven688/jitterphysics2)
-5. 🔒 Closed issue [#142](https://github.com/notgiven688/jitterphysics2/issues/142) in [notgiven688/jitterphysics2](https://github.com/notgiven688/jitterphysics2)
+1. 🎉 Merged PR [#1](https://github.com/labbbirder/Jitter2-Unity/pull/1) in [labbbirder/Jitter2-Unity](https://github.com/labbbirder/Jitter2-Unity)
+2. 💪 Opened PR [#1](https://github.com/labbbirder/Jitter2-Unity/pull/1) in [labbbirder/Jitter2-Unity](https://github.com/labbbirder/Jitter2-Unity)
+3. 🗣 Commented on [#3](https://github.com/labbbirder/DirectRetrieveAttribute/issues/3#issuecomment-2154180000) in [labbbirder/DirectRetrieveAttribute](https://github.com/labbbirder/DirectRetrieveAttribute)
+4. 💪 Opened PR [#152](https://github.com/notgiven688/jitterphysics2/pull/152) in [notgiven688/jitterphysics2](https://github.com/notgiven688/jitterphysics2)
+5. 🗣 Commented on [#7](https://github.com/labbbirder/UnityInjection/issues/7#issuecomment-2141101143) in [labbbirder/UnityInjection](https://github.com/labbbirder/UnityInjection)
 <!--END_SECTION:activity-->
 
 ## Labbbirder
