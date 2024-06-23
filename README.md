@@ -1,11 +1,11 @@
 ## Recent Activities
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/labbbirder/DirectRetrieveAttribute/issues/3#issuecomment-2165268987) in [labbbirder/DirectRetrieveAttribute](https://github.com/labbbirder/DirectRetrieveAttribute)
-2. 🎉 Merged PR [#1](https://github.com/labbbirder/Jitter2-Unity/pull/1) in [labbbirder/Jitter2-Unity](https://github.com/labbbirder/Jitter2-Unity)
-3. 💪 Opened PR [#1](https://github.com/labbbirder/Jitter2-Unity/pull/1) in [labbbirder/Jitter2-Unity](https://github.com/labbbirder/Jitter2-Unity)
-4. 🗣 Commented on [#3](https://github.com/labbbirder/DirectRetrieveAttribute/issues/3#issuecomment-2154180000) in [labbbirder/DirectRetrieveAttribute](https://github.com/labbbirder/DirectRetrieveAttribute)
-5. 💪 Opened PR [#152](https://github.com/notgiven688/jitterphysics2/pull/152) in [notgiven688/jitterphysics2](https://github.com/notgiven688/jitterphysics2)
+1. 🔒 Closed issue [#2](https://github.com/labbbirder/DecimalNavigation/issues/2) in [labbbirder/DecimalNavigation](https://github.com/labbbirder/DecimalNavigation)
+2. 🎉 Merged PR [#5](https://github.com/labbbirder/DecimalNavigation/pull/5) in [labbbirder/DecimalNavigation](https://github.com/labbbirder/DecimalNavigation)
+3. 💪 Opened PR [#5](https://github.com/labbbirder/DecimalNavigation/pull/5) in [labbbirder/DecimalNavigation](https://github.com/labbbirder/DecimalNavigation)
+4. 🗣 Commented on [#3](https://github.com/labbbirder/DirectRetrieveAttribute/issues/3#issuecomment-2165268987) in [labbbirder/DirectRetrieveAttribute](https://github.com/labbbirder/DirectRetrieveAttribute)
+5. 🎉 Merged PR [#1](https://github.com/labbbirder/Jitter2-Unity/pull/1) in [labbbirder/Jitter2-Unity](https://github.com/labbbirder/Jitter2-Unity)
 <!--END_SECTION:activity-->
 
 ## Labbbirder
