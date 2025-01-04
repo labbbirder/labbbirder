@@ -8,4 +8,4 @@
 5. 🗣 Commented on [#1](https://github.com/labbbirder/Unity-Shell/issues/1#issuecomment-2197895647) in [labbbirder/Unity-Shell](https://github.com/labbbirder/Unity-Shell)
 <!--END_SECTION:activity-->
 
-疯狂输出代码中_(:зゝ∠)_
+近数个月本职工作的开发任务异常繁重，等稍微闲下来点再同步几个仓库的bugfix，并逐一回复Issue。感谢谅解😉
